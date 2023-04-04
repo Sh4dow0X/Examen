@@ -1,0 +1,107 @@
+<div class="container">
+    <form autocomplete="off">
+        <div class="form-group row">
+        <h2 class="col-10">Vehiculo</h2>
+        <div class="col-10">
+            <label class="col-form-label">Marca:</label>
+            <select id="op" onchange="Reset()" (change)="getSubMarca()" class="form-control" required="Este campo es requerido">
+            <option value="0">Selecciona una Marca</option>
+            <option *ngFor="let inf of marcas"
+                  [value]="inf.id"
+                    >
+                {{inf.nombre}}
+            </option>
+            </select>
+        </div>
+
+        <div class="col-10">
+            <label class="col-form-label">Submarca:</label>
+            <select id="op1" onchange="R1()" (change)="getModelo()" class="form-control" required="Este campo es requerido">
+            <option value="0">Selecciona una Submarca</option>
+            <option *ngFor="let inf of sub"
+                    [value]="inf.id"
+                    >
+                {{inf.nombre}}
+            </option>
+            </select>
+        </div>
+
+        <div class="col-10">
+            <label class="col-form-label">Modelo:</label>
+            <select id="op2" onchange="R2()" (change)="getDes()" class="form-control" required="Este campo es requerido">
+            <option value="0">Selecciona un Modelo</option>
+            <option *ngFor="let inf of mod"
+                    [value]="inf.id"
+                    >
+                {{inf.nombre}}
+            </option>
+            </select>
+        </div>
+
+        <div class="col-10">
+            <label class="col-form-label">Descripcion:</label>
+            <select id="op3" class="form-control" required="Este campo es requerido">
+            <option value="0">Selecciona una Descripcion</option>
+            <option *ngFor="let inf of des"
+                    [value]="inf.descripcionId"
+                    >
+                {{inf.descripcion1}}
+            </option>
+            </select>
+        </div>
+
+        <h2 class="col-10">Domicilio</h2>
+        <div class="col-10">
+            <label class="col-form-label">CP:</label>
+            <input class="form-control" 
+            type="text" 
+            name="cp"
+            id="cp"
+            (keyup)="prueba(cp.value)"
+            onkeypress="return event.charCode>=48 && event.charCode<=57"
+            [ngModel] = "lugar.cp" 
+            required="Este campo es requerido"
+            maxlength="5"
+            #cp="ngModel">
+        </div>
+        <div class="col-10">
+            <label class="col-form-label">Estado:</label>
+            <input class="form-control" 
+            disabled="true"
+            type="text" 
+            name="Estado"
+            [(ngModel)]="lugar.estado">
+            
+        </div>
+        <div class="col-10">
+            <label class="col-form-label">Municipio:</label>
+            <input class="form-control" 
+            disabled="true"
+            type="text" 
+            name="Municipio"
+            [(ngModel)]="lugar.municipio">
+        </div>
+        <div class="col-10">
+            <label class="col-form-label">Colonia:</label>
+            <select class="form-control" 
+            name="Colonia"
+            id="colonia"
+            [class.Is-invalid]="colonia.invalid && colonia.touched"
+            [ngModel] = "lugar.colonia" 
+            required="Este campo es requerido"
+            #colonia="ngModel">
+            <option value="0">Selecciona una Colonia</option>
+            <option *ngFor="let inf of info"
+                    [value]="inf.colonia">
+                {{inf.colonia}}
+            </option>
+            </select>
+        </div>
+        <div class="col-10">
+            <button type="submit" class="btn btn-outline-primary btn-block">
+                Validar
+            </button>
+        </div>
+    </div>
+    </form>
+</div>

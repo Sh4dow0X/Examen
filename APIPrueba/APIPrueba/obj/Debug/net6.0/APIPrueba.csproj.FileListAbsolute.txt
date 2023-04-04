@@ -1,0 +1,134 @@
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\appsettings.Development.json
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\appsettings.json
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\APIPrueba.exe
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\APIPrueba.deps.json
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\APIPrueba.runtimeconfig.json
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\APIPrueba.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\APIPrueba.pdb
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\Humanizer.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\obj\Debug\net6.0\APIPrueba.csproj.AssemblyReference.cache
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\obj\Debug\net6.0\APIPrueba.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\obj\Debug\net6.0\APIPrueba.AssemblyInfoInputs.cache
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\obj\Debug\net6.0\APIPrueba.AssemblyInfo.cs
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\obj\Debug\net6.0\APIPrueba.csproj.CoreCompileInputs.cache
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\obj\Debug\net6.0\APIPrueba.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\obj\Debug\net6.0\APIPrueba.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\obj\Debug\net6.0\staticwebassets\msbuild.APIPrueba.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\obj\Debug\net6.0\staticwebassets\msbuild.build.APIPrueba.props
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.APIPrueba.props
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.APIPrueba.props
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\obj\Debug\net6.0\staticwebassets.build.json
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\obj\Debug\net6.0\staticwebassets.development.json
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\obj\Debug\net6.0\scopedcss\bundle\APIPrueba.styles.css
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\obj\Debug\net6.0\APIPrueba.csproj.CopyComplete
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\obj\Debug\net6.0\APIPrueba.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\obj\Debug\net6.0\refint\APIPrueba.dll
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\obj\Debug\net6.0\APIPrueba.pdb
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\obj\Debug\net6.0\APIPrueba.genruntimeconfig.cache
+D:\Users\Shadow0x\Documents\GEN0223\APIPrueba\APIPrueba\obj\Debug\net6.0\ref\APIPrueba.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\appsettings.Development.json
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\appsettings.json
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\APIPrueba.exe
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\APIPrueba.deps.json
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\APIPrueba.runtimeconfig.json
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\APIPrueba.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\APIPrueba.pdb
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\Humanizer.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\obj\Debug\net6.0\APIPrueba.csproj.AssemblyReference.cache
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\obj\Debug\net6.0\APIPrueba.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\obj\Debug\net6.0\APIPrueba.AssemblyInfoInputs.cache
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\obj\Debug\net6.0\APIPrueba.AssemblyInfo.cs
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\obj\Debug\net6.0\APIPrueba.csproj.CoreCompileInputs.cache
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\obj\Debug\net6.0\APIPrueba.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\obj\Debug\net6.0\APIPrueba.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\obj\Debug\net6.0\staticwebassets\msbuild.APIPrueba.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\obj\Debug\net6.0\staticwebassets\msbuild.build.APIPrueba.props
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.APIPrueba.props
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.APIPrueba.props
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\obj\Debug\net6.0\staticwebassets.build.json
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\obj\Debug\net6.0\staticwebassets.development.json
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\obj\Debug\net6.0\scopedcss\bundle\APIPrueba.styles.css
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\obj\Debug\net6.0\APIPrueba.csproj.CopyComplete
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\obj\Debug\net6.0\APIPrueba.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\obj\Debug\net6.0\refint\APIPrueba.dll
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\obj\Debug\net6.0\APIPrueba.pdb
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\obj\Debug\net6.0\APIPrueba.genruntimeconfig.cache
+D:\Users\Shadow0x\Documents\GEN0223\Prueba Tecnica\APIPrueba\APIPrueba\obj\Debug\net6.0\ref\APIPrueba.dll
